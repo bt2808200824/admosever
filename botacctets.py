@@ -8,7 +8,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ===== CẤU HÌNH =====
-TOKEN = "8638098040:AAEjq5QCVlf15fGBgvacygfGDxE63j2Eclc"
+TOKEN = "8925038640:AAETKnoevX7Tv7P_vadQgGRwANRrKL4mSm0"
 ADMIN_ID = 7054270031
 
 GROUP_LINKS = [
